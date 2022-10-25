@@ -1,0 +1,57 @@
+[
+	{ 
+	"title": "React Js",
+	  "price":10000,
+	  "total-class":30,
+	  "duration":2,
+		"thumbnail":"https://miro.medium.com/max/1050/1*Fxa6oJFh2lRD7EnAcZIcQg.png"
+      },
+	  { 
+	  "title": "Node Js",
+	  "price":12000,
+	  "total-class":33,
+	  "duration":2,
+	  "thumbnail":"https://cdn.gabrieleromanato.com/5c37214980b3/uploads/2018/09/nodejs.jpg"
+	  
+      },
+	   { 
+	  "title": "Mern Stack Development",
+	  "price":42000,
+	  "total-class":90,
+	  "duration":2,
+	  "thumbnail":"https://res.cloudinary.com/practicaldev/image/fetch/s--0FRJGdyZ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg"
+	  
+      },
+	   { 
+	  "title": "Web Design & Development",
+	  "price":10000,
+	  "total-class":32,
+	  "duration":2,
+	  "thumbnail":"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200214165928/Web-Development-Course-Thumbnail.jpg"
+	  
+      },
+	  { 
+	  "title": "OOP PHP & MySql",
+	  "price":15000,
+	  "total-class":40,
+	  "duration":2,
+	  "thumbnail":"https://excelisys.com/wp-content/uploads/2018/05/thumbnail-300x200.jpg"
+	  
+      },
+	   { 
+	  "title": "Laravel Framework",
+	  "price":12000,
+	  "total-class":30,
+	  "duration":2,
+	  "thumbnail":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYAg8KrmvqI1QWNlljsX8qgMBsLregUtLsTor1mxHl6mh25_ljvJS2m7rBr2siBGyfoEo&usqp=CAU"
+	  
+      },
+	   { 
+	  "title": "WordPress Theme Customization",
+	  "price":8000,
+	  "total-class":28,
+	  "duration":2,
+	  "thumbnail":"https://webgenix.com.au/wp-content/uploads/2021/10/Wordpress-plugins.jpg"
+	  
+      },
+  ]
