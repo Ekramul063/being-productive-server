@@ -11,6 +11,11 @@ app.get('/',(req,res)=>{
 app.get('/courses',(req,res)=>{
     res.send(courses)
 })
+app.get('/course/:id',(req,res)=>{
+    const id = parseInt(req.params.id);
+    const selectedItem = courses.find(course => course.id === id);
+    res.send(selectedItem); 
+})
 
 app.listen(port,()=>{
     console.log('site running')

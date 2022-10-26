@@ -1,6 +1,6 @@
 [
 	{
-		"id": 1,
+		"id":1,
 		"title": "React Js",
 		"price": 10000,
 		"details":"React is a library for building composable user interfaces. It encourages the creation of reusable UI components, which present data that changes over time. Lots of people use React as the V in MVC. React abstracts away the DOM from you, offering a simpler programming model and better performance. React can also render on the server using Node, and it can power native apps using React Native. React implements one-way reactive data flow, which reduces the boilerplate and is easier to reason about than traditional data binding. React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.",
@@ -9,7 +9,7 @@
 		"thumbnail": "https://miro.medium.com/max/1050/1*Fxa6oJFh2lRD7EnAcZIcQg.png"
 	},
 	{
-		"id": 2,
+		"id":2,
 		"title": "Node Js",
 		"price": 12000,
 		"details":"Node.js is a very powerful JavaScript-based platform built on Google Chrome’s JavaScript V8 Engine. It is used to develop I/O intensive web applications like video streaming sites, single-page applications, and other web applications. Node.js is open source, completely free, and used by thousands of developers around the world. Node.js is designed to build scalable network applications.",
@@ -18,7 +18,7 @@
 		"thumbnail": "https://cdn.gabrieleromanato.com/5c37214980b3/uploads/2018/09/nodejs.jpg"
 	},
 	{
-		"id": 3,
+		"id":3,
 		"title": "Mern Stack Development",
 		"price": 42000,
 		"details":"MERN Stack is a JavaScript Stack that is used for easier and faster deployment of full-stack web applications. MERN Stack comprises of 4 technologies namely: MongoDB, ReactJs, ExpressJs and NodeJs It is designed to make the development process smoother and easier.Each of these 4 powerful technologies provides an end-to-end framework for the developers to work in and each of these technologies play a big part in the development of web applications",
@@ -27,7 +27,7 @@
 		"thumbnail": "https://res.cloudinary.com/practicaldev/image/fetch/s--0FRJGdyZ--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/epv55hgtsfi8csprpj9u.jpg"
 	},
 	{
-		"id": 4,
+		"id":4,
 		"title": "Web Design & Development",
 		"details":"This course curriculum is developed by our Faculty Head who has 20 years of experience in the programming and technology management area. This curriculum is accepted by BASIS/BITM and more than 3000 students already have received training and got jobs after completing the course. ",
 		"price": 10000,
@@ -36,7 +36,7 @@
 		"thumbnail": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200214165928/Web-Development-Course-Thumbnail.jpg"
 	},
 	{
-		"id": 5,
+		"id":5,
 		"title": "OOP PHP & MySql",
 		"price": 15000,
 		"details":"PHP is a server-side scripting language. It is used to develop a dynamic and interactive website. It is one of the most used languages. Among the most uses of PHP is to Communicate with Mysql. It works as a middleman between HTML and MySql. It is very popular and on 75% of all websites where server-side programming language4 is known it is used.OOP means Object-Oriented Programming. It is a programming model that organizes software design around data, or objects, rather than functions and logic. OOP is implemented through PHP because neither HTML nor MySQL is object-oriented.MySql is an open-source relational database management system. It helps people create or organize data into one or more data tables in which data types may be related. The language that is used to create, modify, and extract the data from the database is called SQL.",
@@ -54,7 +54,7 @@
 		"thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYAg8KrmvqI1QWNlljsX8qgMBsLregUtLsTor1mxHl6mh25_ljvJS2m7rBr2siBGyfoEo&usqp=CAU"
 	},
 	{
-		"id": 7,
+		"id":7,
 		"title": "WordPress Theme Customization",
 		"price": 8000,
 		"details":"WordPress is a site builder and a CMS (Content Management System). The CMS is software that stores data, images, text, video, and documents. Worlds one-third of websites are built on WordPress. WordPress makes it easier to create your online presence. It’s easier to use and flexible, scalable, and always free to use. Because of this, it created a larger community appealing to bloggers and publishers. Some most famous company websites are built on WordPress such as Sony Music, Variety, Time, and Disney Company along with millions of other individual small business and personal websites.",
